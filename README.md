@@ -1,4 +1,4 @@
-## Hi there 👋
+## Can't you see I'm trying?
 
 <!--
 **ggsha12/ggsha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
